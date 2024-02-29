@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="ErrorLogger" Collapsed="true">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAACQAAADACAAABAAAAAEAAAA=</HashCode>
+      <FileName>ErrorLogger.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game" Collapsed="true">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAIAAAgBAEAAAAAAAAAAAAAARAAAAAAAAAA=</HashCode>
+      <FileName>Game.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameTimer" Collapsed="true">
+    <Position X="15.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAoAAQEAQAAAAgAAAiAAgAAAAA=</HashCode>
+      <FileName>GameTimer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HornetApp" Collapsed="true">
+    <Position X="17.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABEAAAAAAAQAAAAAQAQAAAAAAAAABAAAAACAAYAA=</HashCode>
+      <FileName>HornetApp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HornetMenus" Collapsed="true">
+    <Position X="12.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAwAAAAAAAAABwQAgCEAEQAAAAQBAIAZgAAAAAAAAAA=</HashCode>
+      <FileName>HornetMenus.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HtAudio" Collapsed="true">
+    <Position X="14" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQACAGCAAAAQAgAQCIAUUIJARAAAARoAAkIIAAQAA=</HashCode>
+      <FileName>HtAudio.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HtCamera" Collapsed="true">
+    <Position X="15.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BBGAAEUAAAggRBAAAAAKMAQigwBAABDCAAMIAAACAFI=</HashCode>
+      <FileName>HtCamera.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HtGameController" Collapsed="true">
+    <Position X="17.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAFAAEAAAAABCRABEAAAAAAQAAjEMAAAAAABARAIAIA=</HashCode>
+      <FileName>HtGameController.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HtGraphics" Collapsed="true">
+    <Position X="12.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AJAFSABAEAgAQdAgmEAOUQBCIgFhE1QAkGgJgPAgIwg=</HashCode>
+      <FileName>HtGraphics.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IHtKeyboardListener" Collapsed="true">
+    <Position X="17.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HtKeyboard.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HtKeyboard" Collapsed="true">
+    <Position X="14" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAEAABAYAIAAAAAQQAgABAEEIAAAAAAABQgRA=</HashCode>
+      <FileName>HtKeyboard.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IHtMouseListener" Collapsed="true">
+    <Position X="12.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HtMouse.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HtMouse" Collapsed="true">
+    <Position X="15.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAggAgAAE5SAIAAAAAoIDAAFIAOhBAAAAAEAAEEI=</HashCode>
+      <FileName>HtMouse.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IShape2D" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Shapes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Point2D" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAIACAAAAAAAAAAAABAAAAAAABAAAAAAAAAAoA=</HashCode>
+      <FileName>Shapes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Segment2D" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BBAAAAAAAAAEAAAAhBAAAABAAAAAAAFAAEAAIABACKE=</HashCode>
+      <FileName>Shapes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Circle2D" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAgAQAAAAEABAAAAAABAAAAAAABAAAgAEAgAAIA=</HashCode>
+      <FileName>Shapes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rectangle2D" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAgAAEQAgAAAABCAAAAABAAAQAAANAAAQAOAEAAIA=</HashCode>
+      <FileName>Shapes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AngledRectangle2D" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>QAgEAAgCAAAABAAJABSAABBAAAAAACAAAAAAAEAAAII=</HashCode>
+      <FileName>Shapes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sprite" Collapsed="true">
+    <Position X="14" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAwAAAAAAAAgAAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Sprite.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vector2D" Collapsed="true">
+    <Position X="15.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ikAAIAQAAAAAEgAAAAQAAYEAAAAAAAAABQAgIADAAAA=</HashCode>
+      <FileName>Vector2D.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Texture" Collapsed="true">
+    <Position X="14" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAQAQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HtGraphics.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Colour" Collapsed="true">
+    <Position X="12.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABQAAAAAAAAAoAQABABAAAAA=</HashCode>
+      <FileName>HtGraphics.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="PictureIndex" Collapsed="true">
+    <Position X="14" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HtGraphics.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FontIndex" Collapsed="true">
+    <Position X="12.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HtGraphics.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Enum Name="HtProgramState" Collapsed="true">
+    <Position X="14" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAEAAAAAAAAAAAAgAAAAAAQAAAAAABAAAAAAA=</HashCode>
+      <FileName>HornetApp.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SoundIndex" Collapsed="true">
+    <Position X="14" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HtAudio.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="KeyboardEventType" Collapsed="true">
+    <Position X="15.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACBAAAEAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HtKeyboard.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="HtMouseButton" Collapsed="true">
+    <Position X="12.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAABAgAAAAAAAAAAA=</HashCode>
+      <FileName>HtMouse.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ObjectType" Collapsed="true">
+    <Position X="17.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAABAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>objecttypes.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Result" Collapsed="true">
+    <Position X="12.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Result.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
