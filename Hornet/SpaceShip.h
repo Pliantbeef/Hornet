@@ -2,31 +2,39 @@
 #include "Vector2D.h"
 #include "Result.h"
 #include "HtGraphics.h"
+#include "GameObject.h"
+#include "HtKeyboard.h"
 
 
-class SpaceShip
+class SpaceShip : public GameObject 
 {
 public: 
 	  
 
-	PictureIndex ShipImg; 
+
 	Vector2D m_velocity;
-	Vector2D m_position;
-	float m_direction;
+	Vector2D m_input;
+
+	Vector2D m_desiredVelocity;
 
 	SpaceShip();
 	        
 	void Initialise(Vector2D position);
 
-	void render();
+	void update(double frametime) override;
 
-	void update();
+	void ChangeVelocity(double frametime);
 
+	void SetVelocity();
 
-	void weed();
+	void AdjustAngle(double framtime);
+
 	 
 private:
 	bool active;
 
+	double speed;
+	double m_angleSpeed;
+	double m_maxSpeed;
 };
 

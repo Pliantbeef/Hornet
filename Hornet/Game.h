@@ -3,6 +3,7 @@
 #include "HtAudio.h"
 #include "HtGraphics.h"
 #include "SpaceShip.h"
+#include "Rock.h"
 
 // 17/06/2023
 // This class is where you will start programming a game.
@@ -44,6 +45,11 @@ public:
 
     SpaceShip* pShip; // creates a new ship with a pointer
 
+    
+
+    //SpaceShip ship;
+    //Rock* asteroid;
 private:
+
 };
 

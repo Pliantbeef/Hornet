@@ -147,6 +147,13 @@
       <FileName>Vector2D.h</FileName>
     </TypeIdentifier>
   </Class>
+  <Class Name="GameObject">
+    <Position X="2.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAEAACAAEAAAAAAAAAAAAAAAABAAAAAAAAIUAAA=</HashCode>
+      <FileName>GameObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
   <Struct Name="Texture" Collapsed="true">
     <Position X="14" Y="4.75" Width="1.5" />
     <TypeIdentifier>
